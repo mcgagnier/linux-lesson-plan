@@ -1,0 +1,13 @@
+1. Start with findSquare toy problem - 15 min
+
+2. Move into linux.js - 30 min
+
+3. move into files.js - 15 min
+
+4. take break - 15 min
+
+5. do buildTower toy problem - 30 min
+
+6. move into indexing.js - 30 min
+
+7. finish with chron.js - 30 min
