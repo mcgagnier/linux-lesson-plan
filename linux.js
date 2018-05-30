@@ -63,8 +63,6 @@
 
 //touch - creates a file
 
-//locate - finds files by name
-
 //clear - clears the termial of input commands
 
 //tail - outputs the last part of a file. by default tail prints the last 10 lines of a file
